@@ -21,7 +21,6 @@
 <div align="center">
   <img src="<div align="center">
   <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="600" height="300"/>
-----------------------------------------------
 
 ### :man_technologist: About Me :
 I am a Computer Science student and aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
@@ -41,7 +40,7 @@ I am a Computer Science student and aspiring Software Engineer <img src="https:/
  
  -:mailbox: Reach me at joshuasargenta1@gmail.com
 
- ----------------------------------------------
+
 
  ### :hammer_and_wrench: Languages and Tools :
 
