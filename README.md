@@ -22,6 +22,8 @@
   <img src="<div align="center">
   <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="600" height="300"/>
 
+<hr>
+
 ### :man_technologist: About Me :
 I am a Computer Science student and aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
 
@@ -40,6 +42,7 @@ I am a Computer Science student and aspiring Software Engineer <img src="https:/
  
  -:mailbox: Reach me at joshuasargenta1@gmail.com
 
+<hr>
   ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -53,6 +56,8 @@ I am a Computer Science student and aspiring Software Engineer <img src="https:/
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
  </div>
 <div>
+
+<hr>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshsargent&theme=dark&background=000000)](https://git.io/streak-stats)
