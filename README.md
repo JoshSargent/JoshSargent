@@ -43,7 +43,7 @@ I am a Computer Science student and aspiring Software Engineer <img src="https:/
  -:mailbox: Reach me at joshuasargenta1@gmail.com
 
 <hr>
-  ### :hammer_and_wrench: Languages and Tools :
+   ### 🛠️: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
