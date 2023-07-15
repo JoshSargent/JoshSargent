@@ -41,7 +41,7 @@ I am a Computer Science student and aspiring Software Engineer <img src="https:/
  -:mailbox: Reach me at joshuasargenta1@gmail.com
 
 
-
+<div>
  ### :hammer_and_wrench: Languages and Tools :
 
  <div>
@@ -53,7 +53,7 @@ I am a Computer Science student and aspiring Software Engineer <img src="https:/
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
-
+ </div>
 -----------------------------------------------------------------------------------
 
 ### :fire: My Stats :
