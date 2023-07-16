@@ -1,4 +1,6 @@
 <div align="center">
+  <h1>JoshSargent</h1>
+<div align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100">
 </div>
 <div align="center" id="badges">
@@ -14,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=joshsargent&style=flat-square&color=blue" alt="">
 </div>
 <h1>
-  Hello There. I'm JoshSargent.
+  Hello There.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
