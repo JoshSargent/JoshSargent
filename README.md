@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>JoshSargent</h1>
+  <h1>Josh Sargent</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100">
 </div>
