@@ -27,7 +27,7 @@
 <hr>
 
 ### :man_technologist: About Me :
-- I am a Computer Science student and aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
+-:book: I am a Computer Science student and aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
 
  -:telescope: I’m a secondary school student who studies Computer Science inside, and outside of school. I currently enjoy creating small applications to build experience.
   
