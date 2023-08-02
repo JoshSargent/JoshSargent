@@ -49,6 +49,8 @@
 
 <p> Godolphin - Spent time orienting with the IT department of an international organisation, with both information technology and software teams. </p>
 
+<hr>
+
 ### 🛠️ Languages and Tools :
 
 <div>
