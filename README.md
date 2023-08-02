@@ -46,8 +46,8 @@
 <hr>
 
 ### Experience :
-<h1> Godolphin </h1> 
-<p>Spent time orienting with the IT department of an international organisation, with both information technology and software teams. </p>
+
+<p> Godolphin - Spent time orienting with the IT department of an international organisation, with both information technology and software teams. </p>
 
 ### 🛠️ Languages and Tools :
 
