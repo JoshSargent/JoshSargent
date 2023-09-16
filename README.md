@@ -46,11 +46,13 @@
 
 <hr>
 
-### Refereces:
+### References:
 
 <h3> "Joshua is nothing short of first-rate in his approach to his studies - and engages fully in the wider extra-curriculum. I cannot praise him more highly." - J Thurlbourn - Form Tutor </h3>
 <h3> "Joshua is a highly motivated student who would be very dependable in any situation" - K Stevenson - Teacher </h3>
 <h3> "We would like to congratulate Joshua on his appetite and desirle to learn, his drive and enthusiasm for IT" - S Fowler - Head of IT @ Godolphin</h3>
+
+<hr>
 
 ### 🛠️ Languages and Tools :
 
