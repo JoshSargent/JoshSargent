@@ -20,26 +20,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="<div align="center">
-  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="600" height="300"/>
+
 
 <hr>
 
 ### :man_technologist: About Me :
 -:book: I am a Computer Science student and aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
 
- -:telescope: I’m a secondary school student who studies Computer Science inside, and outside of school. I currently enjoy creating small applications to build experience.
+ -:telescope: I’m a secondary school student who studies Computer Science inside and outside of school. I currently enjoy creating small applications to build experience toward my aspiration of a Big Tech career.
   
 
- -:seedling: Self-Studying OCR Computer Science GCSE, soon to start Harvard CS50x.
-
+ -:seedling: Self-Studying OCR Computer Science GCSE, Learning Python.
  
 
-
- 
- -:zap: In my free time, I enjoy playing chess and guitar.
- 
+ -:zap: In my free time, I enjoy playing chess, solving puzzles, and music.
 
  
  -:mailbox: Reach me at joshuasargenta1@gmail.com
@@ -49,18 +43,22 @@
 
 <p> Godolphin - Spent time orienting with the IT department of an international organisation, with both information technology and software teams. </p>
 
+
 <hr>
+
+### Refereces:
+
+<h3> "Joshua is nothing short of first-rate in his approach to his studies - and engages fully in the wider extra-curriculum. I cannot praise him more highly." - J Thurlbourn - Form Tutor </h3>
+<h3> "Joshua is a highly motivated student who would be very dependable in any situation" - K Stevenson - Teacher </h3>
+<h3> "We would like to congratulate Joshua on his appetite and desirle to learn, his drive and enthusiasm for IT" - S Fowler - Head of IT @ Godolphin</h3>
 
 ### 🛠️ Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
  </div>
 <div>
