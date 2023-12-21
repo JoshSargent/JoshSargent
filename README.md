@@ -25,18 +25,18 @@
 <hr>
 
 ### :man_technologist: About Me :
-📖: I am a Computer Science student and aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
+📖:  I am a Computer Science student and aspiring Software Engineer from England.
 
-🔭: I’m a secondary school student who enjoys studiying Computer Science inside, and outside of the school curriculum. I currently enjoy creating small applications to build experience toward my aspiration of a Big Tech career.
+🔭:  I’m a secondary school student who enjoys studiying Computer Science inside, and outside of the school curriculum. I currently enjoy creating small applications to build experience toward my aspiration of a Big Tech career.
   
 
-🌱: Self-Studying Edexcel Computer Science GCSE, Learning Python.
+🌱:  Self-Studying Edexcel Computer Science GCSE, Learning Python.
  
 
-⚡: In my free time, I enjoy playing chess, solving puzzles, and music.
+⚡:  In my free time, I enjoy playing chess, solving puzzles, and music.
 
  
-📫: Reach me at joshuasargenta1@gmail.com
+📫:  Reach me at joshuasargenta1@gmail.com
 <hr>
 
 ### Experience :
