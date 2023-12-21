@@ -25,18 +25,18 @@
 <hr>
 
 ### :man_technologist: About Me :
--:book: I am a Computer Science student and aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
+📖: I am a Computer Science student and aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
 
- -:telescope: I’m a secondary school student who studies Computer Science inside and outside of school. I currently enjoy creating small applications to build experience toward my aspiration of a Big Tech career.
+🔭: I’m a secondary school student who enjoys studiying Computer Science inside, and outside of the school curriculum. I currently enjoy creating small applications to build experience toward my aspiration of a Big Tech career.
   
 
- -:seedling: Self-Studying OCR Computer Science GCSE, Learning Python.
+🌱: Self-Studying Edexcel Computer Science GCSE, Learning Python.
  
 
- -:zap: In my free time, I enjoy playing chess, solving puzzles, and music.
+⚡: In my free time, I enjoy playing chess, solving puzzles, and music.
 
  
- -:mailbox: Reach me at joshuasargenta1@gmail.com
+📫: Reach me at joshuasargenta1@gmail.com
 <hr>
 
 ### Experience :
@@ -48,9 +48,8 @@
 
 ### References:
 
-<h3> "Joshua is nothing short of first-rate in his approach to his studies - and engages fully in the wider extra-curriculum. I cannot praise him more highly." - J Thurlbourn - Form Tutor </h3>
-<h3> "Joshua is a highly motivated student who would be very dependable in any situation" - K Stevenson - Teacher </h3>
-<h3> "We would like to congratulate Joshua on his appetite and desirle to learn, his drive and enthusiasm for IT" - S Fowler - Head of IT @ Godolphin</h3>
+<h4> "Joshua is nothing short of first-rate in his approach to his studies - and engages fully in the wider extra-curriculum. I cannot praise him more highly." - J Thurlbourn - Form Tutor </h3>
+<h4> "We would like to congratulate Joshua on his appetite and desirle to learn, his drive and enthusiasm for IT" - S Fowler - Head of IT @ Godolphin</h3>
 
 <hr>
 
