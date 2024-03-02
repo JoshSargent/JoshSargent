@@ -10,15 +10,16 @@
 <hr>
 
 ### :man_technologist: About Me :
-📖:  I am a Computer Science student and aspiring Software Engineer from England.
 
-🔭:  I’m a secondary school student who enjoys studiying Computer Science inside, and outside of the school curriculum. I currently enjoy creating small applications to build experience toward my aspiration of a Big Tech career.
+📖 :  I am the Founder and Lead Consultant of jsmc.tech, and Lead Developer at fueleo.co.uk. 
+
+🔭 :  Secondary school student based in Cambridge, UK. Open to work experience, internships, and startup offers.
   
 
-🌱:  Self-Studying Edexcel Computer Science GCSE, Learning Python.
+🌱 :  Self-Studying Edexcel Computer Science GCSE, Learning ML.
  
 
-⚡:  In my free time, I enjoy playing chess, solving puzzles, and music.
+⚡ :  In my free time, I enjoy playing chess, solving puzzles, and music.
 
  
 📫:  Reach me at joshuasargenta1@gmail.com
@@ -26,7 +27,10 @@
 
 ### Experience :
 
+<p> JSMC - Founder and Lead Consultant - Founded a social media marketing and web development agency aimed at small businesses. </p>
+<p> Fueleo - Lead Developer.
 <p> Godolphin - Spent time orienting with the IT department of an international organisation, with both information technology and software teams. </p>
+
 
 
 <hr>
