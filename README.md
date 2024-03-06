@@ -28,7 +28,7 @@
 ### Experience :
 
 <p> JSMC - Founder and Lead Consultant - Founded a social media marketing and web development agency aimed at small businesses. </p>
-<p> Fueleo - Lead Developer.
+<p> Fueleo - Full Stack Developer.
 <p> Godolphin - Spent time orienting with the IT department of an international organisation, with both information technology and software teams. </p>
 
 
