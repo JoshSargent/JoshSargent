@@ -11,18 +11,18 @@
 
 ### :man_technologist: About Me :
 
-📖 :  I am a Digital Engineer at Beta Idea, Lead Developer at fueleo.co.uk, and Founder of jsmc.tech.
+📖 I am a Digital Engineer at Beta Idea, Lead Developer at fueleo.co.uk, and Founder of jsmc.tech.
 
-🔭 :  Secondary school student based in Cambridge, UK. Open to work experience, internships, and startup offers.
+🔭 Secondary school student based in Cambridge, UK. Open to work experience, internships, and startup concepts.
   
 
-🌱 :  Self-Studying Edexcel Computer Science GCSE, Learning Blockchain.
+🌱 Self-Studying Edexcel Computer Science GCSE.
  
 
-⚡ :  In my free time, I enjoy playing golf, solving puzzles, and music.
+⚡ In my free time, I enjoy playing golf, solving puzzles, and music.
 
  
-📫 :  Reach me at joshuasargenta1@gmail.com
+📫 Reach me at joshuasargenta1@gmail.com
 <hr>
 
 ### Experience :
